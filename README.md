@@ -1,9 +1,7 @@
-# Tianyi Yu — personal research portfolio
+# Tianyi Yu — personal research website
 
-A responsive, buildless GitHub Pages website. Open index.html through a static HTTP server. No package installation or build step is needed.
+https://terry0809000.github.io/
 
-The site introduces six research directions and links to actual published research repositories. Project images are original conceptual artwork hosted in the corresponding repositories. The homepage uses the existing AI-assisted author portrait.
+Home, About, Research, Projects and Connect have independent HTML pages with shared top navigation. Each research direction has its own project page; project lists use six-card pagination with shareable query URLs. The original artwork, fonts and portfolio-v5.css are preserved.
 
-Publish from main /docs in research-portfolio, or from main /root in terry0809000.github.io when repository creation is available. Preserve the research-portfolio root README.
-
-The project list is rendered into index.html for accessibility and graceful use without JavaScript. When new research repositories are published, update the site cards and counts from the verified projects.json catalogue; never list unpublished repositories. site.js adds filtering and search.
+GitHub Pages serves main from the repository root. The project-site copy is synchronized under research-portfolio/docs.
