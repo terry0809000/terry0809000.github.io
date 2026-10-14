@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-15",
+  "project_count": 12,
+  "categories": [
+    {
+      "slug": "clinical-nlp",
+      "name": "Clinical NLP",
+      "repositories": [
+        "MIMIC_SBDH",
+        "biomedical-abstract-sentence-classification",
+        "beyond-macro-f1-pubmed-rct-public"
+      ]
+    },
+    {
+      "slug": "biomedical-imaging",
+      "name": "Computer Vision",
+      "repositories": [
+        "ham10000-trustworthy-skin-ai",
+        "breast-mri-response-prediction"
+      ]
+    },
+    {
+      "slug": "trustworthy-ai",
+      "name": "Trustworthy AI",
+      "repositories": [
+        "icu-measurement-aware-prediction",
+        "clinical-uncertainty-identification"
+      ]
+    },
+    {
+      "slug": "prediction-modelling",
+      "name": "Prediction Modelling",
+      "repositories": [
+        "aki-dynamic-prediction-deployment-gated"
+      ]
+    },
+    {
+      "slug": "health-informatics",
+      "name": "Health Informatics",
+      "repositories": [
+        "icu-six-hour-lab-prediction",
+        "eatingdisordermlvar"
+      ]
+    },
+    {
+      "slug": "ai-for-health",
+      "name": "AI for Health",
+      "repositories": [
+        "sleepingedf",
+        "pads-adaptive-acquisition"
+      ]
+    }
+  ]
+}
